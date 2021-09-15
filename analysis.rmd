@@ -3,6 +3,24 @@ title: "R Notebook"
 output: html_notebook
 ---
 
+
+
+
+
+Onderzoeksvraag:
+
+
+Hoe kun je voorspellen welke patient waarschijnlijk zijn behandeling succesvol afmaakt, en vrij blijft van drugs?
+
+
+
+
+
+
+
+
+
+
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
