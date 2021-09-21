@@ -10,6 +10,11 @@ output: html_notebook
 Onderzoeksvraag:
 
 
+Which kind of drug, duration of education or other characteristic could tell with how much succes a client will end their treatment?
+
+
+Welke soort drug, lengte van onderwijs of ander kenmerk kan aangeven met hoeveel succes iemand de behandeling afmaakt?
+
 Hoe kun je voorspellen welke patient waarschijnlijk zijn behandeling succesvol afmaakt, en vrij blijft van drugs?
 
 
